@@ -1,0 +1,4 @@
+- src: https://github.com/ckamps/ansible-role-ansible
+  version: master
+  name: ansible
+
